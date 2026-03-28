@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env
+
+# ML model artifacts (large binaries — store in DVC or HuggingFace Hub)
+models/*.pt
+models/*.pth
+models/*.onnx
+models/*.tflite
+models/*.joblib
+!models/.gitkeep
+
+# Data (large files — store in DVC or cloud storage)
+data/sentinel2/*.npy
+data/plantvillage/
+data/field_photos/
+!data/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Google Earth Engine
+.config/earthengine/
+
+# Secrets
+.env
+*.env
+config/secrets.yaml

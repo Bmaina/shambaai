@@ -304,29 +304,8 @@ uvicorn shambaai.api.server:app --port 8000
 - [ ] Swahili voice advisory (TTS integration)
 - [ ] Android TFLite app
 
----
 
-## M4D Open Innovation Challenge
 
-This codebase is submitted to the **Moonshots for Development Open Innovation Challenge 2025/26**:
-- **Primary track:** Track 3 — Digital Extension for Accountable Service Delivery
-- **Crossover:** Track 1 — Insurance Solutions for Resilient Food Systems
-- **Cross-cutting:** Geospatial Analysis (ESA Sentinel-1/2) + AI for Good
-
-Challenge: [m4d.org/openinnovationchallenge](https://www.m4d.org/openinnovationchallenge)  
-Apply: [oms.aws.venturewell.org/go/m4d-stage0-2026](https://oms.aws.venturewell.org/go/m4d-stage0-2026)
-
----
-
-## Founder
-
-**Benson M. Gachaga** — Nairobi, Kenya  
-Data Scientist · GeoAI · UN GIS Programme Manager · MBA (Gies/UIUC)
-
-📧 maina.anu@gmail.com · 📞 +254-713-664-991  
-🔗 [linkedin.com/in/bensonmgachaga](https://linkedin.com/in/bensonmgachaga)
-
----
 
 ## License
 
